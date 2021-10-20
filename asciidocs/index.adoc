@@ -1,4 +1,4 @@
-= My Project
+= Projektantrag
 Julian Jaklitsch
 1.0.0, 2021-10-21: Some notes
 ifndef::imagesdir[:imagesdir: images]
@@ -14,8 +14,30 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
 
 
-=== Header 2
+== Projektname:
+
+   Cafeteria Karten
+
+== Projektleiter:
+
+    Julian Jaklitsch
+
+== Projektmitglieder:
+
+ Julian Jaklitsch
+
+== Projektbeschreibung:
+
+Ein Programm, das hilft den Umsatz in der Cafeteria zu steigern. Am Schulanfang wird an jeden eine Karte gegeben, mit dieser Karte kann man in der Cafeteria bezahlen. Zum Aufladen der Karte geht man zu einem Automaten in der jeweiligen Schule dort kann man in 5 Euro Schritten seine Karte aufladen. Wenn man die Karte verliert, ist das kein Problem da alles in einer Datenbank gespeichert wurde und so bald man sie als gestohlen/verloren meldet wird die Karte gesperrt. Wenn man dann eine neue Karte braucht, zahlt man 5 Euro, damit auf die Karte geachtet wird.
+
+== Meilensteine:
+
+1.	Meilenstein: Das zugreifen auf Datenbanken
+2.	Meilenstein: Die Funktion, um Profile anzulegen
+3.	Meilenstein: Karten Nummer erstellen und Profilen zuordnen
+4.	Meilenstein: fein Schlief
+
+
 
